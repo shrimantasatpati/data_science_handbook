@@ -7,9 +7,9 @@ Make sure to check out the [projects](projects.md) section for more hands-on exa
 Make sure to check out the [interviews](interviews.md) section for more advice on how to pass data science interviews!
 
 ## Resources
-### SQL
+## SQL
 
-## Website (tutorials):
+### Website (tutorials):
 - [TrendyTech](https://trendytech.in/)
 - [LukeBarousse](https://www.lukebarousse.com/sql)
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
@@ -21,14 +21,14 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [Data with Danny - Danny Ma](https://linktr.ee/datawithdanny)
 
 
-## Videos:
+### Videos:
 - [SQL Tutorial - Full Database Course for Beginners (freecodecamp.org)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs (campusx)](https://www.youtube.com/watch?v=nopIGY1zJE0)
 - [Intuitive SQL For Data Analytics - Tutorial (freecodecamp.org)](https://www.youtube.com/watch?v=mXW7JHJM34k)
 - [SQL Full Course | SQL For Beginners | Mysql Full Course | SQL Training | Simplilearn](https://www.youtube.com/watch?v=AA7i2GcTGwU)
   
 
-## Great books (free/paid):
+### Great books (free/paid):
 - [sql-the-complete-reference-third-edition-sep-2009](https://ci-ceit.edu.ck/wp-content/uploads/2021/01/sql-the-complete-reference-third-edition-sep-2009.pdf)
 - [IBM Database SQL programming](https://www.ibm.com/docs/en/ssw_ibm_i_71/sqlp/rbafy.pdf)
 - [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29)
@@ -41,7 +41,7 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 - [SQL Antipatterns](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557) 
 
-## Blogs
+### Blogs
 - [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6929437674181185537)
 - [SQL Topic Blogs - Medium](https://medium.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6928411371835457537)
 - [Learning SQL Blog - Medium](https://www.linkedin.com/company/80829250/admin/)
@@ -50,7 +50,7 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [TechTFQ - YouTube](https://www.youtube.com/c/techTFQ) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6986040772814884865)
 - [Kudvenkat - YouTube](https://www.youtube.com/@Csharp-video-tutorialsBlogspot/search?query=sql)
 
-## Courses/Tutorials
+### Courses/Tutorials
 
 **General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
@@ -88,9 +88,9 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [Star Model](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7016080405472718849)
 
 
-### Python
+## Python
 
-## Website (tutorials):
+### Website (tutorials):
   - [A Byte of Python](http://www.swaroopch.com/notes/python/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [BBC R&D Cloudfit team - Asyncio](https://bbc.github.io/cloudfit-public-docs/)
@@ -115,7 +115,7 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
   - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
   - [🐍 30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
     
-## Practice
+### Practice
   - [Codewars](http://www.codewars.com/)
   - [CodingBat](http://codingbat.com/python)
   - [Exercism](http://exercism.io/)
@@ -125,7 +125,7 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
   - [CodeEval](https://www.codeeval.com/dashboard/)
   - [EmpireOfCode](https://empireofcode.com/game/)
 
-## Videos
+### Videos
 - [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
 - [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 - [Python Programming Beginner Tutorials by **Corey Schafer**](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)

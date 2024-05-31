@@ -132,21 +132,21 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [Python3 for Beginners by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
 
 ### Courses (MOOC):
-    - Udacity
-        - [Intro to Computer Science](https://www.udacity.com/course/cs101)
-        - [Web Development](https://www.udacity.com/course/cs253)
-    - Udemy
-        - [Automated Software Testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/)
-        - [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/)
-        - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
-        - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
-        - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-        - [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
-    - edX
-        - [Analytics in Python](https://www.edx.org/course/analytics-in-python)
-        - [Python for Data Science](https://www.edx.org/course/python-for-data-science)
-        - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-1)
-        - [Introduction to programming using Python](https://www.edx.org/course/introduction-to-programming-using-python)
+- Udacity
+    - [Intro to Computer Science](https://www.udacity.com/course/cs101)
+    - [Web Development](https://www.udacity.com/course/cs253)
+- Udemy
+    - [Automated Software Testing with Python](https://www.udemy.com/course/automated-software-testing-with-python/)
+    - [Automate the Boring Stuff with Python](https://www.udemy.com/course/automate/)
+    - [Coding for Entrepreneurs: Learn Django a Killer Python Framework](https://www.udemy.com/coding-for-entrepreneurs/)
+    - [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/)
+    - [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+    - [The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/)
+- edX
+    - [Analytics in Python](https://www.edx.org/course/analytics-in-python)
+    - [Python for Data Science](https://www.edx.org/course/python-for-data-science)
+    - [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-1)
+    - [Introduction to programming using Python](https://www.edx.org/course/introduction-to-programming-using-python)
 
     
 ## AI

@@ -9,7 +9,7 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 ## Resources
 ### SQL
 
-## Websites:
+## Website (tutorials):
 - [TrendyTech](https://trendytech.in/)
 - [LukeBarousse](https://www.lukebarousse.com/sql)
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)
@@ -88,8 +88,51 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [Star Model](https://learn.microsoft.com/en-us/power-bi/guidance/star-schema) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:7016080405472718849)
 
 
-- Python
-- AI
+### Python
+
+## Website (tutorials):
+  - [A Byte of Python](http://www.swaroopch.com/notes/python/)
+  - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+  - [BBC R&D Cloudfit team - Asyncio](https://bbc.github.io/cloudfit-public-docs/)
+  - [Codecademy](http://www.codecademy.com/tracks/python)
+  - [Dive Into Python 3](https://diveintopython3.problemsolving.io/)
+  - [Free Python Books](https://github.com/pamoroso/free-python-books)
+  - [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)
+  - [Full Stack Python](http://www.fullstackpython.com/)
+  - [import asyncio: Learn Python's AsyncIO](https://www.youtube.com/playlist?list=PLhNSoGM2ik6SIkVGXWBwerucXjgP1rHmB)
+  - [Intermediate Python](http://book.pythontips.com/en/latest/)
+  - [Learn Python in 10 minutes](http://www.stavros.io/tutorials/python/)
+  - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+  - [Non-Programmer's Tutorial for Python 3](http://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+  - [Python Practice Book](http://anandology.com/python-practice-book/index.html)
+  - [Real Python (non-free)](https://realpython.com)
+  - [Learn Python Programming](https://www.scaler.com/topics/python/)
+  - [Snakify, a tutorial with 100 exercises and a step-by-step debugger](https://snakify.org)
+  - [SoloLearn Python 3 Course](https://www.sololearn.com/Course/Python/)
+  - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+  - [The Complete Python Course For Beginners](https://www.youtube.com/watch?v=sxTmJE4k0ho)
+  - [Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/)
+  - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
+  - [🐍 30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
+    
+## Practice
+  - [Codewars](http://www.codewars.com/)
+  - [CodingBat](http://codingbat.com/python)
+  - [Exercism](http://exercism.io/)
+  - [CheckIO](http://www.checkio.org/)
+  - [RobotGame](https://robotgame.net/home)
+  - [HackerRank](https://www.hackerrank.com/domains)
+  - [CodeEval](https://www.codeeval.com/dashboard/)
+  - [EmpireOfCode](https://empireofcode.com/game/)
+
+## Videos
+- [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
+- [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+- [Python Programming Beginner Tutorials by **Corey Schafer**](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+- [Python3 for Beginners by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
+
+    
+## AI
 - Machine Learning
 - Data Science
 - MLOps

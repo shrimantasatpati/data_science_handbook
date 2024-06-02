@@ -398,7 +398,6 @@
 - https://deep-learning-drizzle.github.io/index.html
 
 #### Blogs
-- https://www.tableau.com/learn/articles/data-science-blogs
 - https://www.datasource.ai/
 - https://www.r-bloggers.com/
 - https://www.kdnuggets.com/news/index.html
@@ -410,8 +409,7 @@
 - https://neptune.ai/
 - https://www.fast.ai/
 - https://ods.ai/
-- https://medium.com/tag/machine-learning
-- https://research.google/blog/
+- https://medium.com/
 - https://towardsdatascience.com/
 - https://statquest.org/
 
@@ -460,3 +458,6 @@
 
 #### Papers
 - [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
+
+Tech Blogs (Company Blogs)
+- - https://research.google/blog/

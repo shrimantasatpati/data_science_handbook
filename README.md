@@ -315,7 +315,86 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
   
 ## Machine Learning
 
-- Data Science
+## Data Science
+
+### MOOC
+
+- [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
+- [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
+- [Data Mining - 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/data-mining)
+- [Machine Learning – 5 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/machine-learning)
+- [CS 109 Data Science](https://cs109.github.io/2015/)
+- [OpenIntro](https://www.openintro.org/)
+- [CS 171 Visualization](https://www.cs171.org/#!index.md)
+- [Process Mining: Data science in Action](https://www.coursera.org/learn/process-mining)
+- [Oxford Deep Learning](https://www.cs.ox.ac.uk/projects/DeepLearn/)
+- [Oxford Deep Learning - video](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
+- [Oxford Machine Learning](https://www.cs.ox.ac.uk/research/ai_ml/index.html)
+- [UBC Machine Learning - video](https://www.cs.ubc.ca/~nando/540-2013/lectures.html)
+- [Data Science Specialization](https://github.com/DataScienceSpecialization/courses)
+- [Coursera Big Data Specialization](https://www.coursera.org/specializations/big-data)
+- [Statistical Thinking for Data Science and Analytics by Edx](https://www.edx.org/course/statistical-thinking-for-data-science-and-analytic)
+- [Cognitive Class AI by IBM](https://cognitiveclass.ai/)
+- [Udacity - Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion)
+- [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+- [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
+- [CS 231 - Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+- [Coursera Tensorflow in practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+- [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+- [365 Data Science Course](https://365datascience.com/)
+- [Coursera Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
+- [Coursera GAN Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+- [Codecademy's Data Science](https://www.codecademy.com/learn/paths/data-science)
+- [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
+- [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
+- [Python for Data Science Foundation Course](https://intellipaat.com/academy/course/python-for-data-science-free-training/)
+- [Data Science: Statistics & Machine Learning](https://www.coursera.org/specializations/data-science-statistics-machine-learning)
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+- [Recommender Systems Specialization from University of Minnesota](https://www.coursera.org/specializations/recommender-systems) is an intermediate/advanced level specialization focused on Recommender System on the Coursera platform.
+- [Stanford Artificial Intelligence Professional Program](https://online.stanford.edu/programs/artificial-intelligence-professional-program)
+- [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+- [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
+- [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
+
+### Tutorials
+
+- [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
+- [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+- [Data science your way](https://github.com/jadianes/data-science-your-way)
+- [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
+- [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+- [How To Label Data](https://www.lighttag.io/how-to-label-data/)
+- [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
+- [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
+- [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
+- [Tutorials to get started on signal processing for machine learning](https://github.com/jinglescode/python-signal-processing)
+- [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
+- [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
+- [Minimum Viable Study Plan for Machine Learning Interviews](https://github.com/khangich/machine-learning-interview)
+- [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
+- [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
+
+### Free Courses
+
+- [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+- [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
+- [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
+- [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+- [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
+- [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
+- [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
+- [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
+- [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
+- [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
+- [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
+- [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
+- [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+- [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+- [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
+- [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
+
+
 - MLOps
 - Data Analysis
   Videos

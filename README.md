@@ -447,9 +447,9 @@
 - [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil et al.
 
 #### Community & Resources
-[Machine Learning Ops](https://mlops.githubapp.com/)
-[MLOps Community](https://mlops.community/)
-[MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [Machine Learning Ops](https://mlops.githubapp.com/)
+- [MLOps Community](https://mlops.community/)
+- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 
 #### Courses
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)

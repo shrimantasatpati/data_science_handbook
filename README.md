@@ -1,11 +1,5 @@
 # The Data Science Handbook
 
-This repo has all the resources you need to become an amazing data engineer!
-
-Make sure to check out the [projects](projects.md) section for more hands-on examples!
-
-Make sure to check out the [interviews](interviews.md) section for more advice on how to pass data science interviews!
-
 ## Resources
 ## SQL
 

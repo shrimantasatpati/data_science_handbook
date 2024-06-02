@@ -208,6 +208,7 @@
 * [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which introduces the ML concepts & strategies with lots of practical usages.
 * [Machine Learning Observability Course](https://arize.com/blog-course/) - Self-guided course covers the intuition, math, and best practices for effective machine learning observability.
 * [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
+* - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 
 #### Books
 
@@ -377,13 +378,10 @@
 - [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 - [Kaggle](https://www.kaggle.com/learn) - Learn about Data Science, Machine Learning, Python etc
 - [ML Observability Fundamentals](https://arize.com/ml-observability-fundamentals/) - Learn how to monitor and root-cause production ML issues.
-- [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
 - [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
 - [Python for Data Science by Scaler](https://www.scaler.com/topics/course/python-for-data-science/) - This course is designed to empower beginners with the essential skills to excel in today's data-driven world. The comprehensive curriculum will give you a solid foundation in statistics, programming, data visualization, and machine learning.
 - [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-- [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
-- [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
-- [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
+
 - https://www.prepvector.com/course/data-science
 - https://maven.com/prepvector/ml-projects
 
@@ -451,22 +449,28 @@
 - [Machine Learning Ops](https://mlops.githubapp.com/)
 - [MLOps Community](https://mlops.community/)
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [Weights & Biases Effective MLOps: Model Development](https://www.wandb.courses/courses/effective-mlops-model-development) - Free Course and Certification for building an end-to-end machine using W&B
 
 #### Courses
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 - [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/)
 - [MLOps course (by Goku Mohandas)](https://madewithml.com/)
+- [Build LLM Powered Applications, like a pro!](https://maven.com/boring-bot/ml-system-design)
+- [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+- [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 
 #### Papers
 - [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 
-#### Tech Blogs (Company Blogs)
+## Tech Blogs (Company Blogs)
 - https://research.google/blog/
 
-#### Statistics
+## Statistics
 - https://github.com/PacktPublishing/Building-Statistical-Models-in-Python
 - https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0
 - https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
 
   
-#### A/B Testing
+## A/B Testing
+- https://www.prepvector.com/course/data-science
+- https://www.udacity.com/course/ab-testing--ud257

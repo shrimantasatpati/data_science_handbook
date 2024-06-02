@@ -397,5 +397,33 @@
 - https://github.com/dair-ai/ML-YouTube-Courses
 - https://deep-learning-drizzle.github.io/index.html
 
+#### Blogs
+- https://www.tableau.com/learn/articles/data-science-blogs
+- https://www.datasource.ai/
+- https://www.r-bloggers.com/
+- https://www.kdnuggets.com/news/index.html
+- https://ryanswanstrom.com/
+- https://flowingdata.com/
+- https://www.kaggle.com/
+- https://starbridgepartners.com/data-science-report/
+- https://simplystatistics.org/
+- https://neptune.ai/
+- https://www.fast.ai/
+- https://ods.ai/
+- https://medium.com/tag/machine-learning
+- https://research.google/blog/
+- https://towardsdatascience.com/
+
+#### Research papers & academic resources
+- [MIT News](https://news.mit.edu/topic/machine-learning) – straight from MIT (Massachusetts Institute of Technology) all the latest news from the world of machine learning.
+- [ScienceDirect](https://www.sciencedirect.com/) – lets you explore scientific, technical, and medical research.
+- [Nature.com](https://www.nature.com/search?q=machine+learning) – interesting research on machine learning.
+- [Academia.edu](https://www.academia.edu/people/search?q=machine%20learning&utf8=%E2%9C%93) – Academia lets people share their research papers with others working in the field of machine learning.
+- [Paper With Code](https://paperswithcode.com/) – a free and open resource with Machine Learning papers, code, and evaluation tables.
+- [arXiv](https://arxiv.org/) – a free distribution service and an open archive for scholarly articles in the fields of physics, mathematics, computer science.
+- [University of Oxford](https://www.cs.ox.ac.uk/research/ai_ml/) – research papers from the University of Oxford.
+- [CIT](https://work.caltech.edu/library/index.html) – research papers from California Institute of Technology.
+- [Machine Learning @ Berkley](https://medium.com/@ml.at.berkeley) – A student-run organization at UC Berkeley working on ML applications in industry, academic research, and making ML education more accessible to all.
+
 
 ## MLOps

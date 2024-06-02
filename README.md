@@ -15,14 +15,14 @@
 - [Data with Danny - Danny Ma](https://linktr.ee/datawithdanny)
 
 
-### Videos:
+#### Videos:
 - [SQL Tutorial - Full Database Course for Beginners (freecodecamp.org)](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [Complete SQL Course For Data Science | SQL For Data Science in 6 Hrs (campusx)](https://www.youtube.com/watch?v=nopIGY1zJE0)
 - [Intuitive SQL For Data Analytics - Tutorial (freecodecamp.org)](https://www.youtube.com/watch?v=mXW7JHJM34k)
 - [SQL Full Course | SQL For Beginners | Mysql Full Course | SQL Training | Simplilearn](https://www.youtube.com/watch?v=AA7i2GcTGwU)
   
 
-### Great books (free/paid):
+#### Great books (free/paid):
 - [sql-the-complete-reference-third-edition-sep-2009](https://ci-ceit.edu.ck/wp-content/uploads/2021/01/sql-the-complete-reference-third-edition-sep-2009.pdf)
 - [IBM Database SQL programming](https://www.ibm.com/docs/en/ssw_ibm_i_71/sqlp/rbafy.pdf)
 - [SQL for Data Analytics — Beginners Guide by Standford University](https://github.com/amartinson193/The_Ultimate_List_of_Free_SQL_Resources/blob/main/Books/SQL%20for%20Data%20Analytics%20by%20Standford%20University.pdf) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6925857934140715008/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6925857934140715008%29)
@@ -35,7 +35,7 @@
 - [SQL with Practice Exercises - D Armstrong](https://www.amazon.com/gp/product/B01CX2B006/ref=x_gr_w_bb_sout?ie=UTF8&tag=x_gr_w_bb_sout-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B01CX2B006&SubscriptionId=1MGPYB6YW3HWK55XCGG2)
 - [SQL Antipatterns](https://www.amazon.com/SQL-Antipatterns-Programming-Pragmatic-Programmers/dp/1934356557) 
 
-### Blogs
+#### Blogs
 - [SQL Blog - KDNuggets](https://www.kdnuggets.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6929437674181185537)
 - [SQL Topic Blogs - Medium](https://medium.com/tag/sql) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6928411371835457537)
 - [Learning SQL Blog - Medium](https://www.linkedin.com/company/80829250/admin/)
@@ -44,7 +44,7 @@
 - [TechTFQ - YouTube](https://www.youtube.com/c/techTFQ) [[LinkedIn]](https://www.linkedin.com/feed/update/urn:li:activity:6986040772814884865)
 - [Kudvenkat - YouTube](https://www.youtube.com/@Csharp-video-tutorialsBlogspot/search?query=sql)
 
-### Courses/Tutorials
+#### Courses/Tutorials
 
 **General/ANSI SQL**
 - [SQL Tutorial - SQLcourse.com](https://www.sqlcourse.com/)
@@ -84,7 +84,7 @@
 
 ## Python
 
-### Website (tutorials):
+#### Website (tutorials):
   - [A Byte of Python](http://www.swaroopch.com/notes/python/)
   - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
   - [BBC R&D Cloudfit team - Asyncio](https://bbc.github.io/cloudfit-public-docs/)
@@ -109,7 +109,7 @@
   - [Python Notes for Professionals book](http://books.goalkicker.com/PythonBook/)
   - [🐍 30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python)
     
-### Practice
+###@ Practice
   - [Codewars](http://www.codewars.com/)
   - [CodingBat](http://codingbat.com/python)
   - [Exercism](http://exercism.io/)
@@ -119,13 +119,13 @@
   - [CodeEval](https://www.codeeval.com/dashboard/)
   - [EmpireOfCode](https://empireofcode.com/game/)
 
-### Videos
+#### Videos
 - [Python Basic Tutorials by **SentDex**](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdFqJtqsyeEewqVm_7VRrlD)
 - [Python 3.4 Programming Tutorials by **thenewboston**](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 - [Python Programming Beginner Tutorials by **Corey Schafer**](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 - [Python3 for Beginners by **The Net Ninja**](https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK)
 
-### Books
+#### Books
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -133,7 +133,7 @@
 - [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
 - [Effective Python](https://effectivepython.com/) (Book)
 
-### Courses (MOOC):
+#### Courses (MOOC):
 - Udacity
     - [Intro to Computer Science](https://www.udacity.com/course/cs101)
     - [Web Development](https://www.udacity.com/course/cs253)
@@ -153,14 +153,14 @@
     
 ## AI
 
-### Tools
+#### Tools
 * [Chat GPT](https://chat.openai.com/) ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.
 * [Gemini](https://gemini.google.com/) Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.
 * [DALL·E 2](https://openai.com/dall-e-3) DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.
 * [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
 * [Claude](https://www.anthropic.com/claude) Claude is a family of foundational AI models that can be used in various applications. You can talk directly with Claude at claude.ai to brainstorm ideas, analyze images, and process long documents
 
-### Courses
+#### Courses
 * [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
 * [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) - A beginner-level introduction to Generative AI from Google on Coursera
 * [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
@@ -209,7 +209,7 @@
 * [Machine Learning Observability Course](https://arize.com/blog-course/) - Self-guided course covers the intuition, math, and best practices for effective machine learning observability.
 * [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
 
-### Books
+#### Books
 
 * [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
 * [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way. 
@@ -219,14 +219,14 @@
 * [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning) - a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
 * [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows exactly how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects..
 
-### Programming
+#### Programming
 
 * [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
 * [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf)
 * [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
 * [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
 
-## Videos
+#### Videos
 
 * [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
 * [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)
@@ -238,7 +238,7 @@
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework. You’ll discover how to build these algorithms from scratch!
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This live-video breaks down critical concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents. 
 
-## Learning
+#### Learning
 
 * [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
 * [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
@@ -261,7 +261,7 @@
 * [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 * [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
-## Organizations
+#### Organizations
 
 * [IEEE Computational Intelligence Society](http://cis.ieee.org/)
 * [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
@@ -274,7 +274,7 @@
 * [IBM Research](https://www.research.ibm.com/artificial-intelligence)
 * [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
 
-## Journals
+#### Journals
 
 * [AI & Society](http://www.springer.com/journal/146)
 * [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
@@ -309,7 +309,7 @@
   
 ## Machine Learning/ Data Science
 
-### MOOC
+#### MOOC
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -349,7 +349,7 @@
 - [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
 - [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
 
-### Tutorials
+#### Tutorials
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
@@ -367,7 +367,7 @@
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 - [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 
-### Free Courses
+#### Free Courses
 
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
@@ -386,7 +386,7 @@
 - [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 
-### GitHub Repositories
+#### GitHub Repositories
 - https://github.com/Mohitkr95/Best-Data-Science-Resources?tab=readme-ov-file
 - https://daya6489.github.io/Data-Science-Resources/
 - https://github.com/dipakkr/A-to-Z-Resources-for-Students

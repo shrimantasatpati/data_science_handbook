@@ -445,8 +445,8 @@
 
 #### Books
 
-[Designing Machine Learning Systems (by Chip Huyen)](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/) - discusses a holistic approach to designing ML systems that focus on many important aspects of maintaining ML systems in production.
-[Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil et al.
+- [Designing Machine Learning Systems (by Chip Huyen)](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/) - discusses a holistic approach to designing ML systems that focus on many important aspects of maintaining ML systems in production.
+- [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil et al.
 
 #### Community & Resources
 [Machine Learning Ops](https://mlops.githubapp.com/)

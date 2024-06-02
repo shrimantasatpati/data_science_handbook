@@ -428,3 +428,35 @@
 
 
 ## MLOps
+
+#### GitHub repositories
+- https://github.com/graviraja/MLOps-Basics
+- https://mlops-guide.github.io/
+- https://github.com/visenger/awesome-mlops
+- https://github.com/SkafteNicki/dtu_mlops
+- https://github.com/GokuMohandas/mlops-course
+- https://github.com/kelvins/awesome-mlops
+
+#### Blogs and Guides
+
+- [Improving software engineering skills as a data scientist](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
+- [MLOps Tooling Landscape](https://huyenchip.com/2020/12/30/mlops-v2.html)
+- [MLOps: From Model-centric to Data-centric AI](https://youtu.be/06-AZXmwHjo) 
+
+#### Books
+
+[Designing Machine Learning Systems (by Chip Huyen)](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/) - discusses a holistic approach to designing ML systems that focus on many important aspects of maintaining ML systems in production.
+[Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/) - One of the best places to get a high-level introduction of the MLOps space is in the book “Introducing MLOps” by Mark Treveil et al.
+
+#### Community & Resources
+[Machine Learning Ops](https://mlops.githubapp.com/)
+[MLOps Community](https://mlops.community/)
+[MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+
+#### Courses
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+- [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/program/machine-learning-engineering-for-production-mlops/)
+- [MLOps course (by Goku Mohandas)](https://madewithml.com/)
+
+#### Papers
+- [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)

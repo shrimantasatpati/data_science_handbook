@@ -313,9 +313,7 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 * [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
 
   
-## Machine Learning
-
-## Data Science
+## Machine Learning/ Data Science
 
 ### MOOC
 
@@ -394,33 +392,16 @@ Make sure to check out the [interviews](interviews.md) section for more advice o
 - [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 
-
-- MLOps
-- Data Analysis
-  Videos
-  1. Data Analyst Bootcamp for Beginners (SQL, Tableau, Power BI, Python, Excel, Pandas, Projects, more) -  [freecodecamp.org](https://www.youtube.com/watch?v=PSNXoAs2FtQ)
-  2. 
-  
-Great books:
-
-Communities:
-
-Companies:
-
-Data Engineering blogs of companies:
-
-Data Engineering Whitepapers:
-
-Great YouTube Channels:
-
-Great Podcasts
-
-Newsletters:
-Glossaries:
+### GitHub Repositories
+- https://github.com/Mohitkr95/Best-Data-Science-Resources?tab=readme-ov-file
+- https://daya6489.github.io/Data-Science-Resources/
+- https://github.com/dipakkr/A-to-Z-Resources-for-Students
+- https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+- https://github.com/luspr/awesome-ml-courses
+- https://github.com/tirthajyoti/Data-science-best-resources
+- https://github.com/datascienceid/machine-learning-resources
+- https://github.com/dair-ai/ML-YouTube-Courses
+- https://deep-learning-drizzle.github.io/index.html
 
 
-Courses / Academies
-
-Certifications Courses
-
-Conferences
+## MLOps

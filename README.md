@@ -413,6 +413,7 @@
 - https://medium.com/tag/machine-learning
 - https://research.google/blog/
 - https://towardsdatascience.com/
+- https://statquest.org/
 
 #### Research papers & academic resources
 - [MIT News](https://news.mit.edu/topic/machine-learning) – straight from MIT (Massachusetts Institute of Technology) all the latest news from the world of machine learning.

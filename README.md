@@ -3,7 +3,7 @@
 ## Resources
 ## SQL
 
-##### Website (tutorials):
+#### Website (tutorials):
 - [TrendyTech](https://trendytech.in/)
 - [LukeBarousse](https://www.lukebarousse.com/sql)
 - [Learn SQL - Datacamp](https://www.datacamp.com/learn/sql)

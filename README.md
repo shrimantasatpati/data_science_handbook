@@ -463,7 +463,54 @@
 - [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/abs/2205.02302)
 
 ## Tech Blogs (Company Blogs)
+#### Google Data Science Blogs
 - https://research.google/blog/
+- https://www.unofficialgoogledatascience.com/
+#### Netflix tech blogs
+- https://netflixtechblog.com/tagged/data-science
+- https://netflixtechblog.medium.com/
+#### Microsoft Experimentation blog
+- https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/
+#### Uber
+- Data / ML: https://www.uber.com/en-IN/blog/mumbai/engineering/data/
+- AI: https://www.uber.com/en-IN/blog/mumbai/engineering/ai/
+#### Spotify Data Science Blogs
+- https://engineering.atspotify.com/category/data-science/
+#### Bookings Data Science Blogs
+- https://booking.ai/?gi=494a4db64968
+#### Airbnb
+Data Science & Data Platform Engineering
+- https://medium.com/airbnb-engineering/data/home
+AI&ML
+- https://medium.com/airbnb-engineering/ai/home
+#### Etsy Experimentation Blogs
+- https://www.etsy.com/codeascraft
+#### LinkedIn
+- Data Blogs: https://engineering.linkedin.com/teams/data
+- Engineering blogs: https://engineering.linkedin.com/blog
+#### Doordash
+Machine Learning:
+- https://doordash.engineering/category/data-science-and-machine-learning/
+Data: https://doordash.engineering/category/data-platform/
+Backend: https://doordash.engineering/category/backend/
+#### Lyft
+- Data Science: https://eng.lyft.com/tagged/data-science
+- Data: https://eng.lyft.com/tagged/data
+- Product: https://eng.lyft.com/tagged/product
+#### Amazon
+- Machine Learning: https://aws.amazon.com/blogs/machine-learning/
+- AI:  https://www.amazon.science/blog?q=&f0=0000016e-2ff0-da81-a5ef-3ff057f10000&s=0
+ &expandedFilters=Research%2520area%2CTag%2CConference%2CAuthor%2CDate%2C
+#### Twitter
+- Engineering: https://blog.twitter.com/engineering/en_us
+#### Data model behind notion
+- https://www.notion.so/blog/data-model-behind-notion
+#### Tableau Data Science Blogs
+- https://www.tableau.com/data-insights/data-science
+#### Oracle AI & Data Science
+- https://blogs.oracle.com/ai-and-datascience/
+#### Meta
+- https://research.facebook.com/research-areas/data-science/
 
 ## Statistics
 - https://github.com/PacktPublishing/Building-Statistical-Models-in-Python

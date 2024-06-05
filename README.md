@@ -491,8 +491,8 @@ AI&ML
 #### Doordash
 Machine Learning:
 - https://doordash.engineering/category/data-science-and-machine-learning/
-Data: https://doordash.engineering/category/data-platform/
-Backend: https://doordash.engineering/category/backend/
+- Data: https://doordash.engineering/category/data-platform/
+- Backend: https://doordash.engineering/category/backend/
 #### Lyft
 - Data Science: https://eng.lyft.com/tagged/data-science
 - Data: https://eng.lyft.com/tagged/data
